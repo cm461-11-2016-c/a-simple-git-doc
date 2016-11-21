@@ -11,7 +11,7 @@ A demo for CM461-11-2016 Version Control Lab
 6. Git remote
 7. Git reset
 8. Writing commit message, by Steve, Fong Chi Hang
-9. Git push and pull
+9. Git push and pull by Willie Ieong
 10. Git rebase
 11. Git reflog (write the topic by steveho)
 12. Git merge, by Lei Chi Seng.
@@ -25,4 +25,5 @@ A demo for CM461-11-2016 Version Control Lab
 - Steve Fong
 - Lei Chi Seng (@licsx256)
 - Steve Ho (@steveho8866) 
+- Willie Ieong
 
