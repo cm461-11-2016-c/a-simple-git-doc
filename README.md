@@ -6,7 +6,7 @@ A demo for CM461-11-2016 Version Control Lab
 1. Install Git
 2. Setup Git
 3. .git folder, by Makzan Demo.
-4. Git add
+4. Git add, by Steve Chan
 5. Git commit, by Heng, Tam Chan Heng
 6. Git remote
 7. Git reset
@@ -27,4 +27,5 @@ A demo for CM461-11-2016 Version Control Lab
 - Heng Tam (@mobile4g)
 - Steve Ho (@steveho8866) 
 - Willie Ieong
+- Chan Hin Un (Steve)
 
