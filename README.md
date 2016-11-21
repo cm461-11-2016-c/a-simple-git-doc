@@ -23,5 +23,5 @@ A demo for CM461-11-2016 Version Control Lab
 - Thomas Mak (@makzan)
 - Thomas Another Mak (@makzan-demo)
 - Steve Fong
-
+- Calvin Wong Ah Fat
 
