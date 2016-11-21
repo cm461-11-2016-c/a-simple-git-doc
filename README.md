@@ -46,4 +46,5 @@ config file in the Git directory (that is, .git/config) of whatever repository y
 - Willie Ieong
 - Terence Mak (@terencemak)
 - Chan Hin Un (Steve)
+- Calvin Wong Ah Fat
 
