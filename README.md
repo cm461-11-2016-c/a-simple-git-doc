@@ -10,7 +10,7 @@ A demo for CM461-11-2016 Version Control Lab
 5. Git commit
 6. Git remote
 7. Git reset
-8. Writing commit message
+8. Writing commit message, by Steve, Fong Chi Hang
 9. Git push and pull
 10. Git rebase
 11. Git reflog
@@ -21,6 +21,6 @@ A demo for CM461-11-2016 Version Control Lab
 ## Contributors
 
 - Thomas Mak (@makzan)
-
+- Steve Fong
 
 
