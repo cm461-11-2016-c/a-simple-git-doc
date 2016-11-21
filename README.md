@@ -13,7 +13,7 @@ A demo for CM461-11-2016 Version Control Lab
 8. Writing commit message
 9. Git push and pull
 10. Git rebase
-11. Git reflog
+11. Git reflog (write the topic by steveho)
 12. Git merge
 13. Git flow (production, development, dev_feature)
 
@@ -21,6 +21,6 @@ A demo for CM461-11-2016 Version Control Lab
 ## Contributors
 
 - Thomas Mak (@makzan)
-
+- Steve Ho (@steveho8866) 
 
 
