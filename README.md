@@ -14,13 +14,13 @@ A demo for CM461-11-2016 Version Control Lab
 9. Git push and pull
 10. Git rebase
 11. Git reflog
-12. Git merge
+12. Git merge, by Lei Chi Seng.
 13. Git flow (production, development, dev_feature)
 
 
 ## Contributors
 
 - Thomas Mak (@makzan)
-
+- Lei Chi Seng (@licsx256)
 
 
