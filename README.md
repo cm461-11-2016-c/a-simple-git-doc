@@ -21,6 +21,6 @@ A demo for CM461-11-2016 Version Control Lab
 ## Contributors
 
 - Thomas Mak (@makzan)
-
+- Terence Mak (@terencemak)
 
 
