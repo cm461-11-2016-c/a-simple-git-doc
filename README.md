@@ -13,7 +13,7 @@ A demo for CM461-11-2016 Version Control Lab
 8. Writing commit message, by Steve, Fong Chi Hang
 9. Git push and pull
 10. Git rebase
-11. Git reflog
+11. Git reflog (write the topic by steveho)
 12. Git merge, by Lei Chi Seng.
 13. Git flow (production, development, dev_feature)
 
@@ -25,4 +25,4 @@ A demo for CM461-11-2016 Version Control Lab
 - Steve Fong
 - Lei Chi Seng (@licsx256)
 - Heng Tam (@mobile4g)
-
+- Steve Ho (@steveho8866) 

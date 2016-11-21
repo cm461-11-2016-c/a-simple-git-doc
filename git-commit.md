@@ -1,2 +1,5 @@
-5. Git Commit
+Git Commit
+=============
+
+git-commit - Record changes to the repository
 
