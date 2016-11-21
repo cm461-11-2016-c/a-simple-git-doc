@@ -7,7 +7,7 @@ A demo for CM461-11-2016 Version Control Lab
 2. Setup Git
 3. .git folder, by Makzan Demo.
 4. Git add
-5. Git commit
+5. Git commit, by Heng, Tam Chan Heng
 6. Git remote
 7. Git reset
 8. Writing commit message, by Steve, Fong Chi Hang
@@ -24,4 +24,5 @@ A demo for CM461-11-2016 Version Control Lab
 - Thomas Another Mak (@makzan-demo)
 - Steve Fong
 - Lei Chi Seng (@licsx256)
+- Heng Tam (@mobile4g)
 
