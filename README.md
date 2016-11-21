@@ -5,7 +5,7 @@ A demo for CM461-11-2016 Version Control Lab
 
 1. Install Git
 2. Setup Git
-3. .git folder
+3. .git folder, by Makzan Demo.
 4. Git add
 5. Git commit
 6. Git remote
@@ -21,6 +21,6 @@ A demo for CM461-11-2016 Version Control Lab
 ## Contributors
 
 - Thomas Mak (@makzan)
-
+- Thomas Another Mak (@makzan-demo)
 
 
