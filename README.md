@@ -4,7 +4,7 @@ A demo for CM461-11-2016 Version Control Lab
 
 ## Topics (TODO)
 
-1. Install Git
+1. Install Git, by Victoria Siu
 2. Setup Git
 3. .git folder, by Makzan Demo.
 4. Git add, by Steve Chan
@@ -31,4 +31,5 @@ A demo for CM461-11-2016 Version Control Lab
 - Terence Mak (@terencemak)
 - Chan Hin Un (Steve)
 - Calvin Wong Ah Fat
+- Victoria Siu
 
